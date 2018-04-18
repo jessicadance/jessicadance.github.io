@@ -1,0 +1,78 @@
+*{ background-color: #dee5ef }
+
+h1 {
+ 	color: #152f3a;  
+	font: 'georgia';
+	font-size: 45px; 
+	text-align: center;
+	}
+
+#intro { 
+	color: #24283f;
+    font: 'arial';
+    font-size: 30px;
+    text-align: center;
+}	
+
+#sub_heading { 
+	color: #033d9b;
+	font: 'georgia';
+	font-size: 40px;
+	text-align: center;
+	}
+
+p { 
+	color: #152f3a;
+	font: 'georgia';
+	font-size: 20px; }
+
+.date {
+	color: #475a77;
+	font: 'georgia';
+	font-size: 30px ;}
+
+a:link {
+	color: #286ca3;
+	background-color: transparent 
+	text-decoration: none 
+}
+
+a:visited {
+	color: #a51882;
+	background-color: transparent;
+	text-decoration: underline;
+	!important;
+
+}
+
+a:hover {
+	color: #348fba;
+	background-color: transparent;
+	text-decoration: underline;
+	!important;
+}
+
+a:active {
+	color: #348fba;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+img { display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	   }
+
+.caption { 
+	color: #152f3a; 
+	font: 'georgia';
+	font-size: 18px;
+	text-align: center;
+	}
+
+iframe { 
+	display:block;
+	margin-left:auto;
+	margin-right: auto; }
+
+	     
